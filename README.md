@@ -10,7 +10,12 @@ Analyzed 330000+ road accident records to study casualty patterns and accident s
 Understanding road accident trends and severity is important for safety planning and preventive measures. This project identifies patterns in accident frequency, vehicle types, and casualty rates.
 
 ## Dataset
-Publicly available road accident dataset (raw and cleaned Excel files included).
+Publicly available road accident dataset 
+
+
+## Dataset Note
+**The raw dataset used in this project exceeds GitHub’s file size limit and therefore could not be uploaded to this repository.**
+
 
 ## Tools and Technologies
 Excel | Power Query | Pivot Tables | Charts | Slicers
